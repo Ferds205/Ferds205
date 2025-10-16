@@ -27,7 +27,10 @@ Me chamo Fernando dos Santos, tenho 19 anos e sou natural de São Paulo. Atualme
         />
     </a>
   <a href="https://www.linkedin.com/in/fernando-ferreira-junior">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img 
+        alt="LinkedIn" 
+        title="Me Adicione no Linkedin"
+        src="https://custom-icon-badges.demolab.com/badge/Conecte--se-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
