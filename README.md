@@ -1,4 +1,4 @@
-# <img align="left" height="48" src="https://i.imgur.com/UxT9eSN.png" /> Fernando Santos
+# <img align="left" height="40" src="https://i.imgur.com/UxT9eSN.png" /> Fernando Santos
 
 **`Desenvolvedor Mobile/Front-End`**
 
@@ -115,4 +115,4 @@ Me chamo Fernando dos Santos, tenho 19 anos e sou natural de São Paulo. Atualme
   />
 
 </p>
-<img align="center" height="120" src="https://64.media.tumblr.com/c37c10ee8e344e135b2767f7e3541e85/tumblr_mgt0mqhbKH1rcy5pco1_500.gifv" />
+<img align="left" height="120" src="https://64.media.tumblr.com/c37c10ee8e344e135b2767f7e3541e85/tumblr_mgt0mqhbKH1rcy5pco1_500.gifv" />
